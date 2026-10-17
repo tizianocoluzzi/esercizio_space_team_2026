@@ -7,6 +7,7 @@
 #include "esp_flash.h"
 #include "esp_system.h"
 #include "sensors/barometer.hpp"
+#include "sensors/accelerometer.hpp"
 #include "esp_log.h"
 #include "driver/gpio.h"
 
